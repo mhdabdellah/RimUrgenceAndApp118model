@@ -2,3 +2,5 @@ archive.zip
 fir_dataset
 
 *.png
+*.h5
+*.tflite
